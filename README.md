@@ -6,8 +6,8 @@ In order to view the web application:
 
 2) open milestone_3.sln
 
-3)change  the server name in web.config file to your server name
+3) change  the server name in web.config file to your server name
 
 4) attach database GUCommerce
 
-5)run from login file
+5) run from login file
